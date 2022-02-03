@@ -2,7 +2,7 @@
 
 ## Live Demo 
 
-https://laughing-darwin-712798.netlify.app/
+https://react-js-restaurant-menu.netlify.app/
 
 ### `npm start`
 
